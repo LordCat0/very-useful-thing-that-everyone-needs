@@ -1,6 +1,6 @@
 # Very Useful Thing That Everyone Needs
 
-Yeah this is totally useful guys trust me!
+Yeah this is totally useful guys, trust me!
 
 ## Usage
 
